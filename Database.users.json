@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6603b771e4ac44c447a7f356"
+  },
+  "firstname": "anant",
+  "lastname": "anant",
+  "fathername": "anant",
+  "mothername": "anant",
+  "DOB": {
+    "$date": "5555-05-05T00:00:00.000Z"
+  },
+  "sex": "male",
+  "Address": "anant",
+  "email": "av@gmail.com",
+  "password": "$2b$10$KemgqJl/U3dMu4FTp.ZQs.1mdJwmW6RWIN3nkLMHZKaLI78dpKpE2",
+  "confirmpassword": "123",
+  "adharcard": "E:\\taskform\\uploads\\1711519601502-a.jpg",
+  "pancard": "E:\\taskform\\uploads\\1711519601524-download (1).jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603fe0f65ebab59b9d4db17"
+  },
+  "firstname": "sudhanshu",
+  "lastname": "sharma",
+  "fathername": "anant",
+  "mothername": "vighnesh",
+  "DOB": {
+    "$date": "5555-05-05T00:00:00.000Z"
+  },
+  "sex": "female",
+  "Address": "ujjain",
+  "email": "ssb@gmail.com",
+  "password": "$2b$10$ujSZaUlbKXfTGz.FqT2mMu.IP/cbIZJo.hhqrvvkTHI51L4PABTwG",
+  "confirmpassword": "123",
+  "adharcard": "E:\\taskform\\uploads\\1711537679016-a.jpg",
+  "pancard": "E:\\taskform\\uploads\\1711537679040-download (1).jpg",
+  "__v": 0
+}]
